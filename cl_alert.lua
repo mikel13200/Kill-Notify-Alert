@@ -63,3 +63,4 @@ RegisterNetEvent("Tizzy:AddAlert", function(action, name, number, isPlaySound, s
         addDeath(name, number, isPlaySound, soundTrack, volume)
     end
 end)
+
